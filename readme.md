@@ -10,6 +10,7 @@ Koska koodausta oli tehty myöhään yöllä, eivät koodarit ymmärtäneet enä
 Tarkoituksena on saada sama tilannekuva aikaiseksi käyttäen annettua sotatanner.json tilannekuvausta. Kaikki muu on vapaata riistaa.
 
 Tässä kuva valmiista tulostuksesta :
+
 ![Lopputulema](lopputulema.png "Lopputulema")
 
 ## Mitä tarvitset

@@ -31,7 +31,7 @@ namespace PelilautaPahkina
             for (int i = 0; i < 100; i++)
             {
                 if (!string.IsNullOrEmpty(tättärää.shotsFired[i].ToString()))
-                    Board.SetValue(board, linearray[i.GetLinearrayNumber()] + "" + i % 10, 4); //SHOT FIRED!
+                    Board.SetValue(board, linearray[i.GetLinearrayNumber()] + "" + (i % 10 + 1), 4); //SHOT FIRED!
             }
 
             // SINKING THE BISHMARK!
